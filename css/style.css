@@ -29,7 +29,7 @@ html { box-sizing: border-box; }
 body {
 	margin: 0;
 	font-family: var(--font-default);
-	background-color: var(--grey-900)
+	background-color: var(--grey-900);
 }
 
 .wrapper {
